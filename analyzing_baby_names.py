@@ -111,4 +111,11 @@ print(df.groupby('species').mean())
 
 ### 6. Task 6 - How many penguins are there for each species/sex combination?
 
+### 7. Task 7 - What is the standard deviation of bill length and depth for each species/sex combination
 
+
+### Plotting with pandas
+df = sns.load_dataset('titanic')
+### 1. Task 1 - Create a bar plot indicating the number of first, second and third class passengers
+
+### 2. Task 2 - Plot a histogram of the age column
